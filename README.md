@@ -25,7 +25,8 @@ Objectif principal : simuler une communication **multi-UE ↔ gNB ↔ 5GC** via 
 ## 🏗️ Architecture
 
 ```
-[ srsUE ] <--> [ GNU Radio + ZMQ ] <--> [ gNB (srsENB) ] <--> [ Open5GS ]
+![ChatGPT Image 14 mai 2025, 09_21_45](https://github.com/user-attachments/assets/daefd076-bdde-4bac-bd2a-e19a61b77cc2)
+
 ```
 
 ## 🚀 Mise en place
