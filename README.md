@@ -14,7 +14,8 @@ Objectif principal : simuler une communication **multi-UE ↔ gNB ↔ 5GC** via 
 
 ## 🏗️ Architecture
 
-![Architecture LTE/5G avec ZeroMQ](architecture_zmq_srsran.png)
+
+![ChatGPT Image 14 mai 2025, 09_21_45](https://github.com/user-attachments/assets/f9a83c29-7cc2-4277-bd49-c164d6dc7dfe)
 
 ```
 [ srsUE ] <--> [ GNU Radio + ZMQ ] <--> [ gNB (srsENB) ] <--> [ Open5GS ]
